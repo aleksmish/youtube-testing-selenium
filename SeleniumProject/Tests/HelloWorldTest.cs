@@ -86,7 +86,7 @@ namespace YoutubeTests
         [TearDown]
         public void Quit()
         {
-            driver.Quit(); //Закрыть браузер по окончании тестирования
+            driver.Quit(); 
         }
     }
 
@@ -136,7 +136,7 @@ namespace YoutubeTests
         [TearDown]
         public void Quit()
         {
-            driver.Quit(); //Закрыть браузер по окончании тестирования
+            driver.Quit(); 
         }
     }
 
@@ -195,7 +195,7 @@ namespace YoutubeTests
         [TearDown]
         public void Quit()
         {
-            driver.Quit(); //Закрыть браузер по окончании тестирования
+            driver.Quit(); 
         }
     }
 
@@ -224,7 +224,7 @@ namespace YoutubeTests
         [TearDown]
         public void Quit()
         {
-            driver.Quit(); //Закрыть браузер по окончании тестирования
+            driver.Quit(); 
         }
     }
 
@@ -267,7 +267,7 @@ namespace YoutubeTests
         [TearDown]
         public void Quit()
         {
-            driver.Quit(); //Закрыть браузер по окончании тестирования
+            driver.Quit(); 
         }
     }
 }
